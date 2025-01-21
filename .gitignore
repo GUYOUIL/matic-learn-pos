@@ -1,2 +1,2 @@
-node_modules/
-config.js
+resolved_listing = c.find_resources(Report, program=["test-program"], state=["resolved"])
+resolved_listing[0].guyouil
